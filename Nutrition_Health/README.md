@@ -1,10 +1,5 @@
 # Group S: Nutrition Intake 
 
-### Contacts
-- Huan Sun: hs3240@columbia.edu
-- Renfang Yang: ry2403@columbia.edu
-- Yixuan Li: yl4564@columbia.edu
-
 ### Abstract
 There’s a saying that what we eat determines what we are. Intuitively, diet directly affects health. And we aim to test this hypothesis and study the effect of nutrition on life expectancy and cancer rate in this project. To be more specific, our research questions include:
 ##### 1. Dietary Structure:
